@@ -7,7 +7,7 @@
 
 📄 Fichiers : 
  1. main.py : Le fichier principal le tester
- 2. point.py : la Point robot (Représente la position du robot)
+ 2. point.py : Classe Point (Représente la position du robot)
  3. robot.py : Classe Robot
  4. robot_ng.py : Classe RobotNG
 
